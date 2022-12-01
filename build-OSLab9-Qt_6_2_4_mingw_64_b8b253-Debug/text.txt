@@ -1,0 +1,9 @@
+Process ID:20144
+Reading matrix...
+
+Finding how much apears 318 in matrix 10x10
+In range from: 10 to 10
+
+Processing...
+
+Element 318 aperas 0 times
