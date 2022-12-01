@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>694</width>
-    <height>459</height>
+    <height>438</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -243,7 +243,7 @@ QPushButton:pressed {
 }</string>
     </property>
     <property name="text">
-     <string>Start voting</string>
+     <string>Voting</string>
     </property>
    </widget>
    <widget class="QPlainTextEdit" name="voatingResultPlainTextEdit">
